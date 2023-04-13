@@ -101,7 +101,7 @@ class _DashboardState extends State<Dashboard> {
       appBar: AppBar(
         elevation: 0,
         title: const Text(
-          'Planiter',
+          'Planit',
           style: TextStyle(color: Colors.black),
         ),
         backgroundColor: Yellow,
